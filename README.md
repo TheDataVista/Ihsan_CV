@@ -14,8 +14,8 @@ I am a Data Analyst with experience in Excel, Power BI, and SQL, specializing in
 Feel free to connect with me:
 
 - 📧 Email: ihsanbinhameed@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ihsan-hasan-v-20166420b/))  
-- 🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://github.com/TheDataVista/Portfolio.git))
+- 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ihsan-hasan-v-20166420b/))  
+- 🌐 Portfolio: ([https://yourwebsite.com](https://github.com/TheDataVista/Portfolio.git))
 
 ## 📌 Repository Details
 
